@@ -15,6 +15,8 @@
 
 This document will explain the fundamentals of how the Pacman game works. 
 
+- ([Youtube Demo](https://youtu.be/tH0pUULsx2o))
+
 # 1.3 The Rules of Pacman
 
 The rules of Pacman can be summarised briefly as the following.
